@@ -8,6 +8,8 @@
   </head>
   <body>
 
+        <x-form></x-form>
+
         {{$slot}}
 
 
